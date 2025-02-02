@@ -10,14 +10,13 @@ Check out the live demo [here](https://praveen0202002.github.io/weatherForecast/
 - Search for weather information by city name
 - Display temperature in Celsius
 - Show humidity and wind speed details
-- Dynamic weather icons based on current weather conditions
 - Error handling for invalid city names
 
 ## Technologies Used
 - **HTML**: Structuring the web page
 - **CSS**: Styling the user interface
 - **JavaScript**: Handling API requests and updating the UI dynamically
-- **OpenWeatherMap API**: Fetching real-time weather data
+- **OpenWeather API**: Fetching real-time weather data
 
 ## Installation & Usage
 1. Clone this repository:
