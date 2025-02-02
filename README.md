@@ -4,7 +4,7 @@
 This Weather App is a simple web application that allows users to check the weather conditions of any city worldwide. The app fetches real-time weather data using the OpenWeatherMap API and displays information such as temperature, humidity, and wind speed.
 
 ## Live Demo
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](https://praveen0202002.github.io/weatherForecast/).
 
 ## Features
 - Search for weather information by city name
